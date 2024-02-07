@@ -65,7 +65,7 @@
 .advertisement {
     max-width: 1509px;
     margin: 0 auto;
-    background: url(./src/images/Highlight-Hero-Windows11-GlobalLaunch_VP5-1920x600.jpeg) center center/cover no-repeat;
+    background: url(./images/Highlight-Hero-Windows11-GlobalLaunch_VP5-1920x600.jpeg) center center/cover no-repeat;
     height: 472px;
     display: flex;
     flex-direction: column;
